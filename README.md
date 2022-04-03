@@ -9,9 +9,9 @@
 
 ## Workflow
 
-### ========== General Gitflow ==========
+### General Gitflow
 
-#### **Normal Flow** 
+**Normal Flow** 
 - maintain a `main` branch and a `dev` branch
 - branch off of `dev` for new features
 - make Pull Requests to `dev` from feature branches
@@ -27,7 +27,7 @@
 - after a hotfix is finished, it should be incorporated into any active `dev` branch you are working on
 - *only* lead devs or devs given special permission will make/complete hotfixes
 
-### ========== Branches ==========
+### Branches
 
 **Branch Naming** 
 - `main` : the main branch
@@ -36,7 +36,7 @@
 - `fix-[issue #(if there is one)]-[description]` : a bugfix branch ex: "fix-order-form-submit" or "fix-#44566-order-form-submit"
 - `release` : a release branch (do not forget the **version number tag!**)
 
-### ========== Commits ==========
+### Commits
 
 **Commit Format**
 
@@ -86,7 +86,7 @@
 - there are 3 sizes of comments
 
 ```
-// ========== [///// SECTION NAME /////] ==========
+// [///// SECTION NAME /////]
 
 // ----- sub-section name -----
 
