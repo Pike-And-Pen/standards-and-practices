@@ -1,7 +1,6 @@
 # Standards and Practices for Pike & Pen
 
 ## Code of Conduct
----
 
 1. Treat everyone with respect and love.
 2. No cussing.
@@ -9,11 +8,10 @@
 4. Have fun, be humble, and share your knowledge!
 
 ## Workflow
----
 
 ### ========== General Gitflow ==========
 
-**Normal Flow** 
+#### **Normal Flow** 
 - maintain a `main` branch and a `dev` branch
 - branch off of `dev` for new features
 - make Pull Requests to `dev` from feature branches
@@ -81,7 +79,6 @@
 
 
 ## Formatting
----
 
 ### General
 
